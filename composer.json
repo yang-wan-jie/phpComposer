@@ -1,0 +1,17 @@
+{
+    "name": "wanjie/yang",
+    "description": "this is a php example",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "classmap": [
+        "."
+      ]
+    },
+    "authors": [
+        {
+            "name": "ywj"
+        }
+    ],
+    "require": {}
+}
